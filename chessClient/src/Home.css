@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    /* flex-direction: row; */
+    
+}
+img{
+    width: 545px;
+    height: 545px;
+    padding: 20px;
+    margin: auto;
+}
+.Title{
+    margin: 150px 0px 50px 10px;
+}
+.ChessGIF{
+    margin-left: 20%;
+    margin-right: 70px;
+    padding-right: 50px;
+}
+a{
+    margin: 30px 20px 0 20px;
+}
